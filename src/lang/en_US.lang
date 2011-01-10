@@ -15,9 +15,9 @@ selectWorld.delete=Welt löschen ...
 
 multiplayer.title=Mehrspieler
 multiplayer.connect=Verbindung aufbauen
-multiplayer.info1=Der Mehrspielmodus ist noch nicht fertig,
-multiplayer.info2=aber man kann ihn schon testen.
-multiplayer.ipinfo=Gib die IP des Servers ein auf dem du spielen möchtest:
+multiplayer.info1=Der Mehrspielermodus ist derzeit noch in der Entwicklung,
+multiplayer.info2=aber es ist bereits möglich ihn zu testen.
+multiplayer.ipinfo=IP oder Hostname des Servers auf dem du spielen möchtest:
 
 multiplayer.downloadingTerrain=Gebiet wird geladen
 
@@ -54,7 +54,7 @@ options.renderDistance.normal=Normal
 options.renderDistance.far=Weit
 options.viewBobbing=Kopfwackeln
 options.anaglyph=3D Anaglyph
-options.limitFramerate=FPS einschränken
+options.limitFramerate=FPS beschränken
 options.difficulty=Schwierigkeitsgrad
 options.difficulty.peaceful=Friedlich
 options.difficulty.easy=Leicht
@@ -74,7 +74,7 @@ key.jump=Springen
 key.inventory=Inventar
 key.drop=Ablegen
 key.chat=Chat
-key.fog=Nebel einstellen
+key.fog=Sichtweite umstellen
 key.sneak=Schleichen
 
 texturePack.openFolder=Texturpack-Ordner öffnen
@@ -181,7 +181,7 @@ tile.pressurePlate.name=Druckplatte
 tile.pressurePlate.desc=
 tile.doorIron.name=Eisentür
 tile.doorIron.desc=
-tile.oreRedstone.name=Rotstein
+tile.oreRedstone.name=Rotsteinerz
 tile.oreRedstone.desc=
 tile.notGate.name=Rotsteinfackel
 tile.notGate.desc=
